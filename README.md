@@ -1,15 +1,15 @@
 
 # // NL \\ #
 
-= 1# Resources die je nodig hebt om het volledig te laten werken =
+ 1# Resources die je nodig hebt om het volledig te laten werken 
 ==================================================================
 
 . ox_inventory
 . ox_target
 . dpemotes
 
-==============================================================
-= #2 Voeg dit toe in je in (ox_inventory > data > shops.lua) =
+
+#2 Voeg dit toe in je in (ox_inventory > data > shops.lua) 
 ==============================================================
 
 	WaterAutomaat = {
@@ -62,8 +62,8 @@
 
 # // EN \\ #
 
-=================================================
-= 1# Resources you need to get it working fully =
+
+ 1# Resources you need to get it working fully 
 =================================================
 
 . ox_inventory
@@ -71,8 +71,8 @@
 . dpemotes
 
 
-==============================================================
-= #2 Add this in your (ox_inventory > data > shops.lua) =
+
+  #2 Add this in your (ox_inventory > data > shops.lua) 
 ==============================================================
 
 	WaterAutomaat = {
