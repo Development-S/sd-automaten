@@ -1,5 +1,5 @@
 
-# // NL \\ #
+# / NL \ #
 
  1# Resources die je nodig hebt om het volledig te laten werken 
 ==================================================================
@@ -60,7 +60,7 @@
 
 
 
-# // EN \\ #
+# / EN \ #
 
 
  1# Resources you need to get it working fully 
