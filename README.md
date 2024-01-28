@@ -52,10 +52,10 @@
 		}
 	},
 
+
+ Als je het script leuk vindt, geef me dan een like en volg me  
 =================================================================
-= Als je het script leuk vindt, geef me dan een like en volg me =
-=================================================================
-= als je problemen hebt voeg me toe op discord = seppe_2003 =
+ als je problemen hebt voeg me toe op discord = seppe_2003 
 =============================================================
 
 
@@ -115,8 +115,8 @@
 		}
 	},
 
-========================================================
-= If you like the script, give me a like and follow me =
+
+ If you like the script, give me a like and follow me 
 ===========================================================
-= if you have any problems add me on discord = seppe_2003 =
+ if you have any problems add me on discord = seppe_2003 
 ===========================================================
